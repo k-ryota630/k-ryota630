@@ -1,12 +1,29 @@
 ## Hi there 👋
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-ryota630&layout=compact&count_private=true&show_icons=true&theme=ambient_gradient" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=k-ryota630&count_private=true&show_icons=true&show_icons=true&theme=ambient_gradient" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img
+        alt="Top Langs"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-ryota630&layout=compact&count_private=true&show_icons=true&theme=ambient_gradient"
+        height="150px" />
+    </td>
+    <td align="center">
+      <img
+        alt="GitHub Stats"
+        src="https://github-readme-stats.vercel.app/api?username=k-ryota630&count_private=true&show_icons=true&theme=ambient_gradient"
+        height="150px" />
+    </td>
+  </tr>
+</table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=k-ryota630&theme=ambient_gradient=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      alt="Trophy"
+      src="https://github-profile-trophy.vercel.app/?username=k-ryota630&theme=ambient_gradient=7" />
+  </a>
+</p>
 
 <!--
 **k-ryota630/k-ryota630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
