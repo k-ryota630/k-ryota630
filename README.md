@@ -1,21 +1,9 @@
 ## Hi there 👋
 
-<table>
-  <tr>
-    <td align="center">
-      <img
-        alt="Top Langs"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-ryota630&layout=compact&count_private=true&show_icons=true&theme=ambient_gradient"
-        height="150px" />
-    </td>
-    <td align="center">
-      <img
-        alt="GitHub Stats"
-        src="https://github-readme-stats.vercel.app/api?username=k-ryota630&count_private=true&show_icons=true&theme=ambient_gradient"
-        height="150px" />
-    </td>
-  </tr>
-</table>
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=k-ryota630&theme=ambient_gradient&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-ryota630&theme=ambient_gradient&layout=compact" />
+</div>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
