@@ -4,6 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-ryota630&theme=ambient_gradient_icons=true&layout=compact)](https://github.com/k-ryota630/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=k-ryota630)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **k-ryota630/k-ryota630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
